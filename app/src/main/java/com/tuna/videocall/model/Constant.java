@@ -1,0 +1,5 @@
+package com.tuna.videocall.model;
+
+public class Constant {
+    public String Token = "eyJjdHkiOiJzdHJpbmdlZS1hcGk7dj0xIiwidHlwIjoiSldUIiwiYWxnIjoiSFMyNTYifQ.eyJqdGkiOiJTSzlsYkt1RGw1STZKaFplVjJOUlUxTFhScGhNTmZtZXlSLTE1ODkwNzk4NTQiLCJpc3MiOiJTSzlsYkt1RGw1STZKaFplVjJOUlUxTFhScGhNTmZtZXlSIiwiZXhwIjoxNTkxNjcxODU0LCJ1c2VySWQiOiJUdW5hIn0.Lza-RrX3Tnu_8CRTBebrZzkuazV6a0JIFhzgwq76eEM";
+}
